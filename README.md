@@ -8,4 +8,4 @@ To solve this issue, we have designed the gas leakage detector using Arduino and
 We have used Arduino Nano Micro controller board, GSM sim 900 Module and MQ6 Gas sensor to implement the prototype.
 
 Circuit Diagram (Using EasyEDA)
-https://easyeda.com/editor#id=|94968808edee438f81d53dfc68bdd41f|3c9640035e304c79a0268f32d10c61aa|7bc8c04487994709801cbcc43902f3a9|e425775a4a5e4eae87985322e332e3cf
+https://easyeda.com/dulajkavinda.1998/cs_project
