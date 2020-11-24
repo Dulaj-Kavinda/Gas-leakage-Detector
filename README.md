@@ -7,5 +7,6 @@ So that identifying the gas leakage at correct is essential to avoid these circu
 To solve this issue, we have designed the gas leakage detector using Arduino and GSM module with SMS alert and sound alarm. By this, if there is a gas leakage the detector will detect that and sends a sound alarm. And, it will send SMS alerts to saved phone numbers on the sim card.
 We have used Arduino Nano Micro controller board, GSM sim 900 Module and MQ6 Gas sensor to implement the prototype.
 
-Circuit Diagram (Using EasyEDA)
+## Circuit Diagram (Using EasyEDA)
 https://easyeda.com/dulajkavinda.1998/cs_project
+![alt text](https://github.com/DulajKavinda98/Gas-leakage-Detector/blob/master/Circuit_Diagram.png?raw=true)
